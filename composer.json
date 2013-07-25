@@ -1,6 +1,6 @@
 {
 	"name": "modulargaming/email",
-	"type": "kohanag-module",
+	"type": "kohana-module",
 	"license": "MIT",
 	"description": "Email module for Kohana",
 	"keywords": [
